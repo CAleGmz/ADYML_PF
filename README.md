@@ -1,4 +1,4 @@
-# Predicción de colisiones de vehículos a motor.
+# Predicción de colisiones de vehículos a motor en la Ciudad de Neva York.
 
 Este repositorio hace uso de un dataset de colisiones en la Ciudad de Nueva York. Lo usa con fines de análisis y predicción. 
 

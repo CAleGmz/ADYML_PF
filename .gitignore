@@ -164,3 +164,5 @@ cython_debug/
 
 #CSV
 Motor_Vehicle_Collisions_-_Crashes_20241014.csv
+*.csv
+*.csv
